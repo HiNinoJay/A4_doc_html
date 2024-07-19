@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./chunks/framework.Cj1MMFA6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebar_position":1},"headers":[],"relativePath":"special/rss.md","filePath":"special/rss.md","lastUpdated":null}'),a={name:"special/rss.md"};function r(o,c,n,i,p,d){return t(),s("div")}const m=e(a,[["render",r]]);export{_ as __pageData,m as default};
